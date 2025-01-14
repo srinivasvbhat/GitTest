@@ -12,7 +12,7 @@ public class extenetReporterNG {
 		
 		ExtentReports extent =new ExtentReports();
 		extent.attachReporter(reporter);
-		extent.setSystemInfo("Tester", "Rahul Shetty");
+		extent.setSystemInfo("Tester", "Srinivas Vishal Bhat");
 		return extent;	
 	}
 }
